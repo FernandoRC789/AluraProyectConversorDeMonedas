@@ -50,6 +50,10 @@ Regístrate en Exchange Rate API y obtén tu API Key. Asegúrate de guardarla en
 4. Ejecuta la clase Main.java.
 
 ##  Imagenes del Proyecto 
+### Conversor de Monedas Pantalla de  Opciones
+![Pantalla OPC1](images/opciones.png)
+### Conversor de Monedas Funcionando
+![Pantalla OPC1](images/funcionamiento.png)
 
 
 
