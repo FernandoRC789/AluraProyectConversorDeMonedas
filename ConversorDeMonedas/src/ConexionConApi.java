@@ -6,7 +6,8 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
 public class ConexionConApi {
-    private static final String API_KEY = "80e17533c109088e281b3e05";
+    //aqui colocas tu APIKEY propia
+    private static final String API_KEY = "aqui coloca  tu  apikey";
     private static final String API_URL = "https://v6.exchangerate-api.com/v6/" + API_KEY + "/pair/";
     private final HttpClient client;
     private final Gson gson;
