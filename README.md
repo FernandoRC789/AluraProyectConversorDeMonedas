@@ -47,7 +47,8 @@ Regístrate en Exchange Rate API y obtén tu API Key. Asegúrate de guardarla en
 1. Clona este repositorio en tu máquina local.
 2. Abre el proyecto en IntelliJ IDEA.
 3. Asegúrate de que todas las dependencias estén correctamente configuradas.
-4. Ejecuta la clase Main.java.
+4. Genera tu APIKEY en la página de ***Exchange Rate API.*** y esa APIKEY que te genera, lo pones en la variable APIKEY en la clase ConversorMonedas.java
+5. Ejecuta la clase Main.java.
 
 ##  Imagenes del Proyecto 
 ### Conversor de Monedas Pantalla de  Opciones
